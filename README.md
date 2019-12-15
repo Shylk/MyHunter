@@ -1,10 +1,10 @@
 # MyHunter
-A custom Duck Hunt based game.
+A custom Duck Hunt based game.<br />
+<kbd>./my_hunter -h<kbd> for usage
 
 # Introduction
 
 A school graphical project where the rules are as follows :
-
   * the player is a hunter who shoots ducks.<br />
   * ducks must appear on the screen and move from one side to another.<br />
   * the player can click on them to shoot them<br />
