@@ -16,10 +16,10 @@ First graphical school project where the rules are as follows :
  
  * :musical_note: Sound effect when clicking or missing bird / button 
  * :speaker: Game sound
- * :mag:Score increasing when hitting the bird
+ * :mag: Score increasing when hitting the bird
  * :round_pushpin: Menu screen to launch or exit game
- * :skull:Game over screen with restart
- * :heart:Life system
+ * :skull: Game over screen with restart
+ * :heart: Life system
 
 ## Author
  * Christophe Sourinthone
