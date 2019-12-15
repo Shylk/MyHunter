@@ -1,6 +1,6 @@
 # MyHunter
 A custom Duck Hunt based game.<br />
-<kbd>./my_hunter -h<kbd> for usage
+<kbd>./my_hunter -h for usage
 
 # Introduction
 
@@ -15,10 +15,10 @@ A school graphical project where the rules are as follows :
 
 # Additional features
  
- * Sound effect when clicking on bird / button
- * Game sound
- * Score increasing when hitting the bird
- * Game over screen with restart
+ * :musical_note: Sound effect when clicking on bird / button 
+ * :speaker: Game sound
+ * :mag:Score increasing when hitting the bird
+ * :skull:Game over screen with restart
 
 # Author
  * Christophe Sourinthone
