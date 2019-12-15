@@ -13,5 +13,11 @@ A school graphical project where the rules are as follows :
 [![menu.png](https://i.postimg.cc/85VtfCsJ/menu.png)](https://postimg.cc/xktKWnvn)
 
 # Additional features
+ 
+ * Sound effect when clicking on bird / button
+ * Game sound
+ * Score implementation
+ * Game over screen with restart
 
 # Author
+ * Christophe Sourinthone
