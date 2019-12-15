@@ -1,5 +1,5 @@
 # MyHunter
-A custom Duck Hunt based game.<br />
+A custom Duck Hunt based game made with CSFML.<br />
 <kbd>./my_hunter -h for usage
 
 ## Introduction
