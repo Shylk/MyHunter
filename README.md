@@ -9,7 +9,7 @@ A school graphical project where the rules are as follows :
   * ducks must appear on the screen and move from one side to another.<br />
   * the player can click on them to shoot them<br />
 
-  Executing the program leads you to the menu screen
+:arrow_right: Executing the program leads you to the menu screen
   
 [![menu.png](https://i.postimg.cc/85VtfCsJ/menu.png)](https://postimg.cc/xktKWnvn)
 
